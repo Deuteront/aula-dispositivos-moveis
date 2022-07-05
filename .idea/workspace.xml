@@ -4,53 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ae30734-f463-43d8-825f-54456a0beaa1" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/androidTest/java/com/example/projetolayout1/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/java/com/example/projetolayout1/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/app/src/test/java/com/example/projetolayout1/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetoLayout1/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/java/com/example/myapplication/CalcularImc.java" beforeDir="false" afterPath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/java/com/example/myapplication/CalcularImc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/java/com/example/myapplication/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/res/layout/activity_imc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/res/layout/activity_imc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projeto2-androidStudio/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ae30734-f463-43d8-825f-54456a0beaa1" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,10 +33,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projeto-8-listview-personalizado" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pauli\Documents\aula-dispositivos-moveis" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -95,6 +54,21 @@
       <workItem from="1649613031538" duration="18000" />
       <workItem from="1649618187954" duration="165000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1656375599030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656375599031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1656375694475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656375694475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +90,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/projeto1-Flutter" />
     </ignored-roots>
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>

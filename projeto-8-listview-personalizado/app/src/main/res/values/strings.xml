@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyListView</string>
+    <string name="preco">preço</string>
+    <string name="preco_venda">preco_venda</string>
 </resources>

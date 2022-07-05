@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5edd08a-bb29-409b-9165-85ac8b2de2a3" name="Default Changelist" comment="" />
+    <list default="true" id="c5edd08a-bb29-409b-9165-85ac8b2de2a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/TabelaTacoInserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/controller/AlimentoControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/controller/FrutaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/model/Alimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/res/layout/list_item_frut.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\pauli\.android\avd\Pixel_2_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -17,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2BBNiMRx8rfpQta1RVhKZ0wLBVa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,8 +52,16 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pauli\Documents\aula-dispositivos-moveis\projeto-8-listview-personalizado\app\src\main\res\layout" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.mylistview.controller" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="MyListView.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -104,6 +133,15 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

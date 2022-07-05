@@ -10,6 +10,8 @@ import android.widget.TextView;
 import com.example.mylistview.model.Fruta;
 import com.example.mylistview.model.Frutas;
 
+import java.text.DecimalFormat;
+
 public class ExibeFruta extends AppCompatActivity {
     Fruta fruta;
     TextView textViewNomeFruta;
@@ -20,6 +22,7 @@ public class ExibeFruta extends AppCompatActivity {
         setContentView(R.layout.activity_exibe_fruta);
         Frutas frutas = new Frutas();
         Bundle extras = getIntent().getExtras();
+
 
         textViewNomeFruta=findViewById(R.id.textViewNome);
         imageViewFruta=findViewById(R.id.imageView);

@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5edd08a-bb29-409b-9165-85ac8b2de2a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/TabelaTacoInserts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/controller/AlimentoControler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/controller/FrutaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/java/com/example/projeto_9_tabelataco/model/Alimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/app/src/main/res/layout/list_item_frut.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projeto9tabelaTACO/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projeto9tabelaTACO/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
